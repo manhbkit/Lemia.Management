@@ -1,0 +1,9 @@
+D:\Dropbox\Lemia.Management\Lemia.Management\Code\Lemia.DAL\bin\Debug\Lemia.DAL.dll
+D:\Dropbox\Lemia.Management\Lemia.Management\Code\Lemia.DAL\bin\Debug\Lemia.DAL.pdb
+D:\Dropbox\Lemia.Management\Lemia.Management\Code\Lemia.DAL\obj\Debug\Lemia.DAL.dll
+D:\Dropbox\Lemia.Management\Lemia.Management\Code\Lemia.DAL\obj\Debug\Lemia.DAL.pdb
+D:\Dropbox\Lemia.Management\Code\Lemia.DAL\bin\Debug\Lemia.DAL.dll
+D:\Dropbox\Lemia.Management\Code\Lemia.DAL\bin\Debug\Lemia.DAL.pdb
+D:\Dropbox\Lemia.Management\Code\Lemia.DAL\obj\Debug\Lemia.DAL.csprojResolveAssemblyReference.cache
+D:\Dropbox\Lemia.Management\Code\Lemia.DAL\obj\Debug\Lemia.DAL.dll
+D:\Dropbox\Lemia.Management\Code\Lemia.DAL\obj\Debug\Lemia.DAL.pdb

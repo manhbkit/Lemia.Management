@@ -5,3 +5,13 @@ E:\Projects\Lemia\Lemia.Common\obj\Debug\Lemia.Common.dll
 E:\Projects\Lemia\Lemia.Common\obj\Debug\Lemia.Common.pdb
 E:\Projects\Lemia\Lemia.Common\bin\Debug\HtmlAgilityPack.dll
 E:\Projects\Lemia\Lemia.Common\bin\Debug\WatiN.Core.dll
+D:\Dropbox\Lemia.Management\Lemia.Management\Code\Lemia.Common\bin\Debug\Lemia.Common.dll
+D:\Dropbox\Lemia.Management\Lemia.Management\Code\Lemia.Common\bin\Debug\Lemia.Common.pdb
+D:\Dropbox\Lemia.Management\Lemia.Management\Code\Lemia.Common\bin\Debug\HtmlAgilityPack.dll
+D:\Dropbox\Lemia.Management\Lemia.Management\Code\Lemia.Common\bin\Debug\WatiN.Core.dll
+D:\Dropbox\Lemia.Management\Lemia.Management\Code\Lemia.Common\bin\Debug\HtmlAgilityPack.pdb
+D:\Dropbox\Lemia.Management\Lemia.Management\Code\Lemia.Common\bin\Debug\HtmlAgilityPack.xml
+D:\Dropbox\Lemia.Management\Lemia.Management\Code\Lemia.Common\bin\Debug\WatiN.Core.xml
+D:\Dropbox\Lemia.Management\Lemia.Management\Code\Lemia.Common\obj\Debug\Lemia.Common.csprojResolveAssemblyReference.cache
+D:\Dropbox\Lemia.Management\Lemia.Management\Code\Lemia.Common\obj\Debug\Lemia.Common.dll
+D:\Dropbox\Lemia.Management\Lemia.Management\Code\Lemia.Common\obj\Debug\Lemia.Common.pdb

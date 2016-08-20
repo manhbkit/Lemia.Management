@@ -3,3 +3,8 @@ E:\Projects\Lemia\Lemia.Entities\bin\Debug\Lemia.Entities.dll
 E:\Projects\Lemia\Lemia.Entities\bin\Debug\Lemia.Entities.pdb
 E:\Projects\Lemia\Lemia.Entities\obj\Debug\Lemia.Entities.dll
 E:\Projects\Lemia\Lemia.Entities\obj\Debug\Lemia.Entities.pdb
+D:\Dropbox\Lemia.Management\Lemia.Management\Code\Lemia.Entities\bin\Debug\Lemia.Entities.dll
+D:\Dropbox\Lemia.Management\Lemia.Management\Code\Lemia.Entities\bin\Debug\Lemia.Entities.pdb
+D:\Dropbox\Lemia.Management\Lemia.Management\Code\Lemia.Entities\obj\Debug\Lemia.Entities.csprojResolveAssemblyReference.cache
+D:\Dropbox\Lemia.Management\Lemia.Management\Code\Lemia.Entities\obj\Debug\Lemia.Entities.dll
+D:\Dropbox\Lemia.Management\Lemia.Management\Code\Lemia.Entities\obj\Debug\Lemia.Entities.pdb
